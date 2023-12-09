@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Python Django Full-Stack Developer
 ----------------------------------
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I love code!!
 
@@ -12,7 +11,7 @@ I love code!!
 * ✉️  You can contact me at [krishnakumarps@gmail.com](mailto:krishnakumarps@gmail.com)
 * 🚀  I'm currently working on [JavaScript Projects](http://github.com/KRISHNAKUMARPS2002/JavaScript-Projects.git)
 * 🧠  I'm learning JavaScript, React
-* 🤝  Python Django full-stack developer seeking job opportunities.
+* 🤝  I'm open to collaborating on Python Django full-stack developer seeking job opportunities.
 * ⚡  I have a cat named Thor
 
 ### Skills
@@ -34,7 +33,5 @@ I love code!!
 <a href="http://www.github.com/KRISHNAKUMARPS2002"><img src="https://github-readme-stats.vercel.app/api?username=KRISHNAKUMARPS2002&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="KRISHNAKUMARPS2002's GitHub stats" /></a>
 
 <a href="http://www.github.com/KRISHNAKUMARPS2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNAKUMARPS2002&stroke=14b8a6&background=000000&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="http://www.github.com/KRISHNAKUMARPS2002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=KRISHNAKUMARPS2002&bg_color=000000&color=14b8a6&line=f97316&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/KRISHNAKUMARPS2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMARPS2002&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
