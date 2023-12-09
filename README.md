@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Python Django Full-Stack Developer
 ----------------------------------
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I love code!!
 
@@ -11,7 +12,7 @@ I love code!!
 * ✉️  You can contact me at [krishnakumarps@gmail.com](mailto:krishnakumarps@gmail.com)
 * 🚀  I'm currently working on [JavaScript Projects](http://github.com/KRISHNAKUMARPS2002/JavaScript-Projects.git)
 * 🧠  I'm learning JavaScript, React
-* 🤝  I'm open to collaborating on Python Django full-stack developer seeking job opportunities.
+* 🤝  Python Django full-stack developer seeking job opportunities
 * ⚡  I have a cat named Thor
 
 ### Skills
