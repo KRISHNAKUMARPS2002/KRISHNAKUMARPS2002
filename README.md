@@ -5,7 +5,7 @@ Python Django Full-Stack Developer
 ----------------------------------
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I love code!!
+I love to code!!
 
 * 🌍  I'm based in India, Kerala
 * 🖥️  See my portfolio at [My CV](http://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f577b962-5deb-3afc-89c5-91a21da04624)
