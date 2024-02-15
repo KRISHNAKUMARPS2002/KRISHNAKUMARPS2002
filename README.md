@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krishna kumar
-=====================================================================================================================================
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave" width="30px"> My name is Krishna Kumar</h1>
 
-Aspiring Developer: Navigating MERN's Path
-----------------------------------
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+![Banner](https://github.com/KRISHNAKUMARPS2002/KRISHNAKUMARPS2002/blob/main/BANNER.jpg?raw=true)
+
+# Aspiring Developer: Navigating MERN's Path
+
 
 I love to code!!
 
