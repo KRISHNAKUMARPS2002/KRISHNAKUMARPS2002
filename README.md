@@ -8,7 +8,7 @@ Aspiring Developer: Navigating MERN's Path
 I love to code!!
 
 * 🌍  I'm based in India, Kerala
-* 🖥️  See my portfolio at [My CV](http://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f577b962-5deb-3afc-89c5-91a21da04624)
+* 🖥️  See my portfolio at [My CV]([http://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f577b962-5deb-3afc-89c5-91a21da04624](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a27b668a-f6c2-42d6-abb6-9adddc1dcbb9))
 * ✉️  You can contact me at [krishnakumarps@gmail.com](mailto:krishnakumarps@gmail.com)
 * 🚀  I'm currently working on [JavaScript Projects](http://github.com/KRISHNAKUMARPS2002/JavaScript-Projects.git)
 * 🧠  I'm learning JavaScript, React
