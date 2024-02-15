@@ -15,6 +15,8 @@ I love to code!!
 * 🤝  MERN-STACK developer seeking job opportunities.
 * ⚡  I have a cat named Thor
 
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/krishnakumarps2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/krishnakumarps2002" height="30" width="40" /></a>
