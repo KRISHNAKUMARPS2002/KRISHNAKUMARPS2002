@@ -29,12 +29,3 @@ I love to code!!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakumarps2002&show_icons=true&locale=en" alt="krishnakumarps2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakumarps2002&" alt="krishnakumarps2002" /></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/KRISHNAKUMARPS2002"><img src="https://github-readme-stats.vercel.app/api?username=KRISHNAKUMARPS2002&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="KRISHNAKUMARPS2002's GitHub stats" /></a>
-
-<a href="http://www.github.com/KRISHNAKUMARPS2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNAKUMARPS2002&stroke=14b8a6&background=000000&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="https://github.com/KRISHNAKUMARPS2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMARPS2002&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
