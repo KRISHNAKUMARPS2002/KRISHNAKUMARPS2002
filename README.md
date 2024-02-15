@@ -3,6 +3,7 @@
 ![Banner](https://github.com/KRISHNAKUMARPS2002/KRISHNAKUMARPS2002/blob/main/BANNER.jpg?raw=true)
 
 # Aspiring Developer: Navigating MERN's Path
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 I love to code!!
@@ -15,7 +16,7 @@ I love to code!!
 * 🤝  MERN-STACK developer seeking job opportunities.
 * ⚡  I have a cat named Thor
 
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
