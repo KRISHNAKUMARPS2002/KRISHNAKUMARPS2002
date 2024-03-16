@@ -10,7 +10,7 @@
 I love to code!!
 
 * 🌍  I'm based in India, Kerala.
-* 🖥️ See my portfolio at [![Portfolio Preview](preview/Screenshot%202024-03-13%20233432.png)](https://krishnakumarps2002.github.io/MY_PORTFOLIO_HTML-CSS/)
+* 🖥️ See my portfolio at [here](https://krishnakumarps2002.github.io/MY_PORTFOLIO_HTML-CSS/).
 * ✉️  You can contact me at[MY_PORFOLIO] [krishnakumarps@gmail.com](mailto:krishnakumarps@gmail.com)
 * 🚀  I'm currently working on [MERN-CHAT-APP](https://github.com/KRISHNAKUMARPS2002/MERN-CHAT-APP.git)
 * 🧠 I'm learning **JavaScript**, **React**, and **TypeScript**.
