@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="200" width="700" alt="GIF" align="center" src="./assets/Code Hacking GIF by Pizza Ninjas.gif">
+<img hight="100" width="500" alt="GIF" align="center" src="./assets/Code Hacking GIF by Pizza Ninjas.gif">
 </div>
 
 </br>
