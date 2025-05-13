@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Hey Everyone 👋
 
 <div align="center">
 <img height="400" width="700" alt="GIF" align="center" src="./assets/Code Hacking GIF by Pizza Ninjas.gif">
